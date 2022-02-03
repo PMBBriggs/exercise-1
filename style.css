@@ -1,6 +1,7 @@
 body{
 background-color: #D47677;
-font-family: Arial, Helvetica, sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Work Sans', sans-serif;
 }
 
 h1{
@@ -22,7 +23,7 @@ form{
 }
 
 input{
-    color:#AAAAAA;
+    color: #F0F0F0;
     font-weight: bold;
     width: 380px;
     height: 25px;
@@ -41,8 +42,8 @@ input{
 div {
     display:inline-flex;
     justify-content: left;
-    width: 365px;
-    margin: 25px 10px;
+    width: 400px;
+    margin: 25px 0px;
 }
 
 #remember{
