@@ -1,0 +1,58 @@
+body{
+background-color: #D47677;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+   color: #7E7E7E;
+   font-size: 20px;
+   margin: 35px 10px 10px 15px;
+}
+
+form{
+    background-color: #F0F0F0 ;
+    text-align: center; 
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-around;
+    align-items: center;
+    margin: 50px auto;
+    width: 550px;
+    height: 350px;
+}
+
+input{
+    color:#AAAAAA;
+    font-weight: bold;
+    width: 380px;
+    height: 25px;
+    padding: 4px 10px;
+}
+
+#login {
+    color: white;
+    background-color: #9DD8D4;
+    font-weight: bold;
+    border: none;
+    padding: 10px;
+    width: 20%;
+}
+
+div {
+    display:inline-flex;
+    justify-content: left;
+    width: 365px;
+    margin: 25px 10px;
+}
+
+#remember{
+    background-color: white ;
+    width: 12px;
+    height: 12px;
+}
+
+label {
+    color: #AAAAAA;
+    font-size: 15px;
+    padding: 1px;
+}
